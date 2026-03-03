@@ -6,8 +6,6 @@
 
 - I’m currently learning ◀️ [Flutter](https://flutter.dev/) and 🦀 [Rust](https://www.rust-lang.org/).
 
-- All of my projects are available on my 🗂️ [Github](https://github.com/sabi-31?tab=repositories).
-
 - You can check out more on my 🌐 [website](https://sabino.in).
 
 - Reach me at ✉️ **<a href=mailTo:sabino3110@gmail.com> sabino3110@gmail.com</a>**.
@@ -15,15 +13,10 @@
 
 <div align="center" > 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabi-31&theme=dracula&hide=batchfile">
 
 <br> 
 <br>
-<table>
-<tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=sabi-31&show_icons=true&hide_border=true&theme=dracula"> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabi-31&theme=dracula&" alt="sabi-31"> </td>  </tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabi-31&theme=dracula&" alt="sabi-31">
 <hr>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=sabi-31&theme=dracula&count_private=true">
 <br>
 </div>
