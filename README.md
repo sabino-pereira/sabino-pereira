@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=30&duration=3000&pause=1000&color=2AF79F&background=FF121200&center=true&vCenter=true&random=true&width=435&lines=Hey!+I'm+Sabino+Pereira." />
 </h3>
 
-- I’m currently learning ◀️ [Flutter](https://flutter.dev/) and 🦀 [Rust](https://www.rust-lang.org/).
+- I’m currently learning [React](https://react.dev/) and [Flask](https://flask.palletsprojects.com/en/stable/).
 
 - You can check out more on my 🌐 [website](https://sabino.in).
 
