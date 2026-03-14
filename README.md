@@ -6,9 +6,9 @@
 
 - I’m currently learning [React](https://react.dev/) and [Flask](https://flask.palletsprojects.com/en/stable/).
 
-- You can check out more on my 🌐 [website](https://sabino.in).
+- You can check out more on my [website](https://sabino.in).
 
-- Reach me at ✉️ **<a href=mailTo:sabino3110@gmail.com> sabino3110@gmail.com</a>**.
+- Reach me at **<a href=mailTo:sabino3110@gmail.com> sabino3110@gmail.com</a>**.
 
 
 <div align="center" > 
